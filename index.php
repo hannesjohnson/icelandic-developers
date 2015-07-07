@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>The Big List of Icelandic Developers</title>
+	<title>The Big List of Icelandic Developers | People in Iceland who like to code</title>
 	<meta name="viewport" content="width=device-width">
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="This is a list of developers in Iceland - in case you need an awesome person to do some developing or just want to see what's going on in the Icelandic development community."/>
@@ -14,6 +14,9 @@
 	<meta property="og:type" content="website"/>
 	<meta property="og:site_name" content="hannes.agnarsson.com"/>
 	<meta property="fb:admins" content="336300002"/>
+	<meta property="article:author" content="https://www.facebook.com/hannes.a.johnson" />
+	<meta name="twitter:creator" content="@HannesJohnson"/>
+	<meta name="twitter:card" content="summary_large_image"/>
 
 	<script type="text/javascript">
 
@@ -28,15 +31,6 @@
 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
 
-	</script>
-
-	<script src="http://platform.twitter.com/anywhere.js?id=6urooIiWnr27WCTfn7mA&amp;v=1">
-	</script>
-	<script type="text/javascript">
-	   twttr.anywhere(function(twitter) {
-	            twitter.hovercards();
-
-	   });
 	</script>
 
 </head>
@@ -61,8 +55,8 @@
 		
 		<div class="fb-like" data-href="http://hannes.agnarsson.com/projects/biglist/developers/" data-send="true" data-width="550" data-show-faces="true" data-font="arial" ref="biglistdev-top"></div>
 		
-		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://hannes.agnarsson.com/projects/biglist/developers/" data-via="officialstation" data-size="large" data-related="doncomodo:Awesome t-shirts that look amazing and are incredibly comfortable,reciary:Your recipe diary to share what you make and be inspired by others" data-hashtags="icedev">Tweet</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-via="HannesJohnson" data-size="large" data-related="LoroMedia" data-hashtags="icedev">Tweet</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 		<h2>Developers</h2>
 		
@@ -107,7 +101,7 @@
 		<a href="http://gummih.com/">Gummi H</a> | @gummih<br />
 		<a href="http://www.hallakol.com/">Halla Kolbeinsdóttir</a> | @hallakol<br />
 		<a href="http://www.dojopan.net/">Halldór Örn Guðnason</a> | @dojopan<br />
-		<a href="http://hannes.agnarsson.com/">Hannes Agnarsson Johnson</a> | @officialstation<br />
+		<a href="http://hannes.agnarsson.com/">Hannes Agnarsson Johnson</a> | @HannesJohnson<br />
 		<a href="http://www.helgi.me">Helgi Hrafn Halldórsson</a> | @harabanar<br />
 		<a href="http://hjalli.com/">Hjálmar Gíslason</a> | @hjalli<br />
 		<a href="http://www.hjaltijakobsson.com">Hjalti Jakobsson</a> | @hjaltij<br />
@@ -156,7 +150,7 @@
 		<a href="http://www.thorsteinsson.is/">Ægir Þorsteinsson</a> | @thorsteinsson<br />
 		Ævar Örn Kvaran | @Skrekkur<br />
 
-		<p id="twitter-list">You can also check out the list on Twitter: <a href="http://twitter.com/officialstation/icelandic-developers" title="You can follow them all on Twitter">@officialstation/icelandic-developers</a></p>
+		<p id="twitter-list">You can also check out the list on Twitter: <a href="http://twitter.com/HannesJohnson/icelandic-developers" title="You can follow them all on Twitter">@HannesJohnson/icelandic-developers</a></p>
 
 		<p id="inspiration">This is of course totally inspired by Ragnar Freyr's <a href="http://www.ragnarfreyr.com/biglist/" title="My muse ;)">The Big List of Icelandic Designers and Creatives</a>.</p>
 
@@ -178,7 +172,7 @@
 
 		<div id="footer">
 			<a href="http://hannes.agnarsson.com"><img src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "hannes@agnarsson.com" ) ) ); ?>?s=30" alt="Hannes - avatar" class="footer-avatar" /></a>
-			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="http://twitter.com/?status=@officialstation%20about%20the%20the%20big%20list%20of%20developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
+			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="http://twitter.com/?status=@HannesJohnson%20about%20the%20the%20big%20list%20of%20developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
 		</div>
 
 	</div>
