@@ -1,0 +1,52 @@
+body {
+    background-color: #ffffff;
+    color: #111111;
+    font-family: Helvetica, Arial, Tahoma, sans-serif;
+    margin: 100px 30px 70px 70px;
+	line-height: 140%;
+}
+ 
+a {
+    text-decoration: none; 
+    color: #0000FF;
+}
+ 
+a:visited { color: #0000DD; }
+ 
+a:hover {
+    color: #0000CC;
+    text-decoration: underline;
+}
+ 
+a:active { color: #000033; } 
+
+img { border: 0; }
+            
+div#container { width: 600px; padding-right: 20px; }
+
+.twitter-share-button { margin-top: 30px; margin-bottom: 30px; }
+
+.new { 
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ff8c00;
+}
+
+#twitter-list { padding-top: 30px; }
+
+#inspiration { padding-top: 30px; }
+
+#sharing { padding-top: 40px; }
+
+#footer img { 
+    vertical-align:text-top; 
+    margin-top: 5px; 
+}
+
+.footer-avatar { 
+    padding-right: 10px; 
+    float: left; 
+}
+
+.footer-text { float: left; }
+
