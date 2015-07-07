@@ -51,7 +51,7 @@
 
 		<p>Do you need an awesome person to do some developing? Or do you just want to see what's going on in the Icelandic development community? This is a growing list of developers in Iceland... so hopefully it'll be big soon ;)</p>
 
-		<p>Do you think you should be on the list or do you know a developer that isn't on the list? Send in the info (name, personal website &amp; Twitter username) using <a href="http://www.officialstation.com/contact" title="Submit the info through this form please">this form</a> or send an e-mail to hannes at the domain agnarsson dot com (if you know what I mean).</p>
+		<p>Do you think you should be on the list or do you know a developer that isn't on the list? Send in the info (name, personal website/LinkedIn page &amp; Twitter username) using <a href="http://www.officialstation.com/contact" title="Submit the info through this form please">this form</a> or send an e-mail to hannes at the domain agnarsson dot com (if you know what I mean).</p>
 		
 		<div class="fb-like" data-href="http://hannes.agnarsson.com/projects/biglist/developers/" data-send="true" data-width="550" data-show-faces="true" data-font="arial" ref="biglistdev-top"></div>
 		
@@ -102,7 +102,7 @@
 		<a href="http://www.hallakol.com/">Halla Kolbeinsdóttir</a> | @hallakol<br />
 		Halldór Eldjárn | @halldorel <span class="new" title="Added: 2015-07-07">* New *</span><br />
 		<a href="http://www.dojopan.net/">Halldór Örn Guðnason</a> | @dojopan<br />
-		<a href="http://hannes.agnarsson.com/">Hannes Agnarsson Johnson</a> | @HannesJohnson<br />
+		<a href="http://hannes.agnarsson.com/">Hannes Agnarsson Johnson</a> | <a href="https://twitter.com/intent/user?screen_name=@HannesJohnson" title="@HannesJohnson on Twitter">@HannesJohnson</a><br />
 		<a href="http://www.helgi.me">Helgi Hrafn Halldórsson</a> | @harabanar<br />
 		<a href="http://hjalli.com/">Hjálmar Gíslason</a> | @hjalli<br />
 		<a href="http://www.hjaltijakobsson.com">Hjalti Jakobsson</a> | @hjaltij<br />
@@ -153,7 +153,7 @@
 
 		<p id="twitter-list">You can also check out the list on Twitter: <a href="http://twitter.com/HannesJohnson/icelandic-developers" title="You can follow them all on Twitter">@HannesJohnson/icelandic-developers</a></p>
 
-		<p id="inspiration">This is of course totally inspired by Ragnar Freyr's <a href="http://www.ragnarfreyr.com/biglist/" title="My muse ;)">The Big List of Icelandic Designers and Creatives</a>.</p>
+		<p id="inspiration">This is of course totally inspired by <a href="http://www.ragnarfreyr.com/">Ragnar Freyr's</a> <a href="http://web.archive.org/web/20140418080750/http://www.ragnarfreyr.com/biglist/" title="My muse ;)">The Big List of Icelandic Designers and Creatives</a>.</p>
 
 		<p id="sharing">Sharing is caring...</p>
 
@@ -173,7 +173,7 @@
 
 		<div id="footer">
 			<a href="http://hannes.agnarsson.com"><img src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "hannes@agnarsson.com" ) ) ); ?>?s=30" alt="Hannes - avatar" class="footer-avatar" /></a>
-			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="http://twitter.com/?status=@HannesJohnson%20about%20the%20the%20big%20list%20of%20developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
+			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="https://twitter.com/intent/tweet?text=@HannesJohnson%20about%20the%20the%20big%20list%20of%20developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
 		</div>
 
 	</div>
