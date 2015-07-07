@@ -65,29 +65,29 @@
 		<a href="http://iceland.aitorgarciarey.com/">Aitor García Rey</a> | @_aitor<br />
 		<a href="http://andrioid.net/">Andri Óskarsson</a> | @andrioid<br />
 		<a href="http://vefstofan.is">Andri Sigurðsson</a> | @andrisig<br />
-		<a href="http://www.linkedin.com/in/arighauks">Ari Geir Hauksson</a> <span class="new" title="Added: 2012-05-01">* New *</span><br />
+		<a href="http://www.linkedin.com/in/arighauks">Ari Geir Hauksson</a><br />
 		<a href="http://www.flassari.is/">Ari Þór H. Arnbjörnsson</a> | @flassari<br />
 		<a href="http://arnorhs.com/">Arnór Heiðar</a> | @arnorhs<br />
 		<a href="http://www.axelrafn.org/">Axel Rafn Benediktsson</a> | @axelrafn<br />
-		<a href="http://monadic.io/">Árni Hermann Reynisson</a> | @arnihermann <span class="new" title="Added: 2012-05-01">* New *</span><br />
+		<a href="http://monadic.io/">Árni Hermann Reynisson</a> | @arnihermann<br />
 		<a href="http://www.pronasty.com/">Árni Jónsson</a> | @addininja<br />
-		Baldur Már Helgason | @baldurhelgason <span class="new" title="Added: 2012-05-01">* New *</span><br />
-		<a href="mailto:aldur29[at]gmail.com">Baldur Þorgilsson</a> <span class="new" title="Added: 2012-05-01">* New *</span><br />		
+		Baldur Már Helgason | @baldurhelgason<br />
+		<a href="mailto:aldur29[at]gmail.com">Baldur Þorgilsson</a><br />		
 		<a href="http://www.bmson.com/">Baldvin Mar Smárason</a> | @bmson<br />
 		Berglind Bergsdóttir | @beggaboo85<br />
-		Bergur Hallgrímsson | @bergur <span class="new" title="Added: 2012-05-10">* New *</span><br />
+		Bergur Hallgrímsson | @bergur<br />
 		<a href="http://bre.klaki.net/">Bjarni Rúnar Einarsson</a> | @HerraBRE<br />
 		<a href="http://www.bingimar.is/">Bjarni Ingimar Júlíusson</a> | @bingimar<br />
 		<a href="http://bjarni.net/">Bjarni Sævarsson</a> | @bjarnis<br />
 		<a href="http://www.csc.kth.se/~bjoola/">Björgvin Ólafsson</a> | @bjorgvino<br />
 		Björgvin Ragnarsson | @nifgraup<br />
 		<a href="http://www.undo.com/bjorn">Björn Friðgeir Björnsson</a> | @bjornfr<br />
-		Björn Ingimundarson | @bjossi <span class="new" title="Added: 2012-05-10">* New *</span><br />
+		Björn Ingimundarson | @bjossi<br />
 		<a href="http://bthj.is/">Björn Þór Jónsson</a> | @bthj<br />
 		<a href="http://suda.co.uk">Brian Suda</a> | @briansuda<br />
-		<a href="http://egill.re/">Egill R. Erlendsson</a> | @e18n <span class="new" title="Added: 2012-05-01">* New *</span><br />		
+		<a href="http://egill.re/">Egill R. Erlendsson</a> | @e18n<br />		
 		<a href="http://neu-r.com">Einar Birgir Einarsson</a> | @einarbirgir<br />
-		Einar Kristján Bridde | @einarkristjan <span class="new" title="Added: 2012-05-02">* New *</span><br />		
+		Einar Kristján Bridde | @einarkristjan<br />		
 		<a href="http://beautyvsfunction.com/">Einar Þór Gústafsson</a> | @einargustafsson<br />
 		<a href="http://einarolafsson.com/">Einar Ólafsson</a> | @einsiol<br />
 		Erling Ormar Vignisson | @erlingormar<br />
@@ -100,6 +100,7 @@
 		Guðjón Már Guðjónsson | @gudjon<br />
 		<a href="http://gummih.com/">Gummi H</a> | @gummih<br />
 		<a href="http://www.hallakol.com/">Halla Kolbeinsdóttir</a> | @hallakol<br />
+		Halldór Eldjárn | @halldorel <span class="new" title="Added: 2015-07-07">* New *</span><br />
 		<a href="http://www.dojopan.net/">Halldór Örn Guðnason</a> | @dojopan<br />
 		<a href="http://hannes.agnarsson.com/">Hannes Agnarsson Johnson</a> | @HannesJohnson<br />
 		<a href="http://www.helgi.me">Helgi Hrafn Halldórsson</a> | @harabanar<br />
@@ -109,24 +110,24 @@
 		Hreinn Gustavsson | @hreinngu<br />
 		<a href="http://hugi.karlmenn.is/">Hugi Þórðarson</a> | @hugith<br />
 		<a href="http://ingig.net/">Ingi Gauti Ragnarsson</a> | @ingig<br />
-		Jakob Árni H. Ísleifsson | @jakobarni <span class="new" title="Added: 2012-05-10">* New *</span><br /> 
+		Jakob Árni H. Ísleifsson | @jakobarni<br /> 
 		<a href="http://jongretar.com/">Jón Grétar Borgþórsson</a> | @JonGretar<br />
-		<a href="http://jonrh.is/">Jón Rúnar Helgason</a> | @jonrh <span class="new" title="Added: 2012-05-02">* New *</span><br />		
-		Jökull Sólberg Auðunsson | @jokull <span class="new" title="Added: 2012-05-01">* New *</span><br />
+		<a href="http://jonrh.is/">Jón Rúnar Helgason</a> | @jonrh<br />		
+		Jökull Sólberg Auðunsson | @jokull<br />
 		<a href="http://karltryggvason.com/">Karl Tryggvason</a> @karltryggvason<br />
-		<a href="http://photo.blog.is/">Kjartan Pétur Sigurðsson</a> | @photo_is <span class="new" title="Added: 2012-05-01">* New *</span></a><br /> 
+		<a href="http://photo.blog.is/">Kjartan Pétur Sigurðsson</a> | @photo_is</a><br /> 
 		<a href="http://www.kjartansverrisson.com/">Kjartan Sverrisson</a> | @Kjartans<br />
-		<a href="mailto:kb[at]tct.is">Kristján B Ómarsson</a> <span class="new" title="Added: 2012-05-01">* New *</span><br />
-		Kristján Ingi Mikaelsson | @kristjanmik <span class="new" title="Added: 2012-05-10">* New *</span><br />
+		<a href="mailto:kb[at]tct.is">Kristján B Ómarsson</a><br />
+		Kristján Ingi Mikaelsson | @kristjanmik<br />
 		<a href="http://kristjan.info/">Kristján Ævarsson</a> | @bimmi<br />
 		<a href="http://www.trymbill.is/">Maggi Trymbill</a> | @trymbill<br />
 		<a href="http://www.acoustickitty.me/">Magnús Þór Jónsson</a> | @ekkimegas<br />
-		Marco Bancale <span class="new" title="Added: 2012-05-10">* New *</span><br />
+		Marco Bancale<br />
 		Marinó A. Jónsson | @marinoj<br />
 		<a href="http://mar.anomy.net/">Már Örlygsson</a> | @maranomynet<br />
-		Ólafur Jens Ólafsson | @olijay <span class="new" title="Added: 2012-05-10">* New *</span><br />
-		<a href="http://olioskar.is/">Ólafur Óskar Egilsson</a> | @olioskar <span class="new" title="Added: 2012-05-01">* New *</span><br />		
-		<a href="http://ragnarfjolnisson.is/">Ragnar Fjölnisson</a> | @rfjolnisson <span class="new" title="Added: 2012-05-10">* New *</span><br />		
+		Ólafur Jens Ólafsson | @olijay<br />
+		<a href="http://olioskar.is/">Ólafur Óskar Egilsson</a> | @olioskar<br />		
+		<a href="http://ragnarfjolnisson.is/">Ragnar Fjölnisson</a> | @rfjolnisson<br />		
 		<a href="http://reynir.net/">Reynir Þ. Hübner</a> | @reynirhubner<br />
 		Sigtryggur A. Árnason | @sigtryggur<br />
 		<a href="http://www.svanbergsson.com/">Sigurður Árni Svanbergsson</a> | @siggiarni<br />
@@ -135,8 +136,8 @@
 		<a href="http://www.smarimccarthy.com/">Smári McCarthy</a> | @smarimc<br />
 		<a href="http://www.facebook.com/stefan.baxter">Stefán Baxter</a><br />
 		Stefán Vignir Skarphéðinsson | @stefanvignir<br />
-		<a href="mailto:styrmir[at]tolvumidlun.is">Styrmir Bjarnason</a> <span class="new" title="Added: 2012-05-01">* New *</span><br />		
-		Sverrir Ásmundsson | @tsverrir <span class="new" title="Added: 2012-05-10">* New *</span><br />
+		<a href="mailto:styrmir[at]tolvumidlun.is">Styrmir Bjarnason</a><br />		
+		Sverrir Ásmundsson | @tsverrir<br />
 		<a href="http://www.tinna.com/">Tinna Karen Gunnarsdóttir</a> | @tinnakaren<br />
 		<a href="http://tomas.arni.jonasson.name/">Tómas Árni Jónasson</a><br />
 		<a href="http://www.tryggvilarusson.com/">Tryggvi Lárusson</a> | @tryggvil<br />
@@ -145,7 +146,7 @@
 		Viðar Svansson | @pjesi<br />
 		Vignir Jónsson | @vignir<br />
 		<a href="http://www.hugarorar.com/">Þórður Matthiasson</a> | @doddi79<br />
-		<a href="http://thorey.runarsdott.ir/">Þórey Rúnarsdóttir</a> | @thoreyrunars <span class="new" title="Added: 2012-05-02">* New *</span><br />
+		<a href="http://thorey.runarsdott.ir/">Þórey Rúnarsdóttir</a> | @thoreyrunars<br />
 		Ægir Finnsson | @finnsson<br />
 		<a href="http://www.thorsteinsson.is/">Ægir Þorsteinsson</a> | @thorsteinsson<br />
 		Ævar Örn Kvaran | @Skrekkur<br />
