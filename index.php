@@ -122,7 +122,7 @@
 		<a href="http://kristjan.info/">Kristján Ævarsson</a> | @bimmi<br />
 		<a href="http://www.trymbill.is/">Maggi Trymbill</a> | @trymbill<br />
 		<a href="http://www.acoustickitty.me/">Magnús Þór Jónsson</a> | @ekkimegas<br />
-		Marco Bancale<br />
+		<a href="http://www.licorice.is/">Marco Bancale</a><br />
 		Marinó A. Jónsson | @marinoj<br />
 		<a href="http://mar.anomy.net/">Már Örlygsson</a> | @maranomynet<br />
 		Ólafur Jens Ólafsson | @olijay<br />
@@ -173,7 +173,7 @@
 
 		<div id="footer">
 			<a href="http://hannes.agnarsson.com"><img src="http://www.gravatar.com/avatar/<?php echo md5( strtolower( trim( "hannes@agnarsson.com" ) ) ); ?>?s=30" alt="Hannes - avatar" class="footer-avatar" /></a>
-			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="https://twitter.com/intent/tweet?text=@HannesJohnson%20about%20the%20the%20big%20list%20of%20developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
+			<a href="http://hannes.agnarsson.com" title="Click here to find out more about me...">Hannes</a> made this. <br />Feel free to send me <a href="https://twitter.com/intent/tweet?text=@HannesJohnson%20about%20The%20Big%20List%20of%20Developers..." target="_blank" title="Feedback through Twitter">feedback</a>.
 		</div>
 
 	</div>
