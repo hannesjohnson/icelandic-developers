@@ -55,7 +55,7 @@
 		
 		<div class="fb-like" data-href="http://hannes.agnarsson.com/projects/biglist/developers/" data-send="true" data-width="550" data-show-faces="true" data-font="arial" ref="biglistdev-top"></div>
 		
-		<a href="https://twitter.com/share" class="twitter-share-button" data-via="HannesJohnson" data-size="large" data-related="LoroMedia" data-hashtags="icedev">Tweet</a>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-via="HannesJohnson" data-related="LoroMedia" data-hashtags="icedev">Tweet</a>
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 		<h2>Developers</h2>
