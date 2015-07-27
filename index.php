@@ -51,7 +51,7 @@
 
 		<p>Do you need an awesome person to do some developing? Or do you just want to see what's going on in the Icelandic development community? This is a growing list of developers in Iceland... so hopefully it'll be big soon ;)</p>
 
-		<p>Do you think you should be on the list or do you know a developer that isn't on the list? Send in the info (name, personal website/LinkedIn page &amp; Twitter username) using <a href="http://www.officialstation.com/contact" title="Submit the info through this form please">this form</a> or send an e-mail to hannes at the domain agnarsson dot com (if you know what I mean).</p>
+		<p>Do you think you should be on the list or do you know a developer that isn't on the list? Send in the info (name, personal website/LinkedIn page &amp; Twitter username) using <a href="http://www.officialstation.com/contact" title="Submit the info through this form please">this form</a> or send an email to hannes at the domain agnarsson dot com (if you know what I mean).</p>
 		
 		<div class="fb-like" data-href="http://hannes.agnarsson.com/projects/biglist/developers/" data-send="true" data-width="550" data-show-faces="true" data-font="arial" ref="biglistdev-top"></div>
 		
